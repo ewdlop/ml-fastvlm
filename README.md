@@ -1,5 +1,3 @@
-IoT AR Glass
-
 # FastVLM: Efficient Vision Encoding for Vision Language Models
 
 This is the official repository of
